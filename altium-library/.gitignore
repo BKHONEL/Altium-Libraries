@@ -1,0 +1,14 @@
+# Ignore folders with history and logs
+library/History/
+template/schematic-page/History/
+template/schematic-page/__Previews/
+
+# Ignore files with logs
+library/debug.log
+
+# Ignore compiled library
+*.IntLib
+
+# Ignore list and logs to Altium Designer
+*.htm
+*.html
