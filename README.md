@@ -1,2 +1,2 @@
 # Altium-Libraries
-Altium Libraries 
+Altium Libraries pack
